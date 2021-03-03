@@ -1,0 +1,9 @@
+{
+  "page_title": {
+    "page_login": "Login"
+  },
+  "fields": {
+    "birthday": "Birthday",
+    "username": "Username"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "page_title": {
+    "page_login": "Đăng nhập"
+  },
+  "fields": {
+    "birthday": "Ngày sinh",
+    "username": "Tên đăng nhập"
+  }
+}
