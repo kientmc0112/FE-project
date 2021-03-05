@@ -1,25 +1,25 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <Header />
+    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
+    <!-- <Header />
     <Sidebar />
-    <Footer />
+    <Footer /> -->
     <router-view />
   </div>
 </template>
 
 <script>
-import Header from './components/commons/Header.vue'
-import Footer from './components/commons/Footer.vue'
-import Sidebar from './components/commons/Sidebar.vue'
+// import Header from './components/commons/Header.vue'
+// import Footer from './components/commons/Footer.vue'
+// import Sidebar from './components/commons/Sidebar.vue'
 
 export default {
   name: 'App',
-  components: {
-    Header,
-    Sidebar,
-    Footer
-  }
+  // components: {
+  //   Header,
+  //   Sidebar,
+  //   Footer
+  // }
 }
 </script>
 
